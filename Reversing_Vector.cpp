@@ -5,7 +5,6 @@ using namespace std;
 
 class Solution{
     public: 
-
         void reverseArray(vector<int>&vec,int n){
             int i=0, j=n-1;
             while(i<j){
